@@ -2,6 +2,7 @@ from machine_learning.machine_learning import MachineLearning
 import tensorflow as tf
 import matplotlib.pyplot as plt
 
+#TODO: This is just a test
 
 class LogisticClassification(MachineLearning):
 
