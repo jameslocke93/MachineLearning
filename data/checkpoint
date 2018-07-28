@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/jameslocke/PycharmProjects/MachineLearning/data/model.ckpt"
+all_model_checkpoint_paths: "/Users/jameslocke/PycharmProjects/MachineLearning/data/model.ckpt"
